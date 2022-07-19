@@ -1,9 +1,10 @@
 ---
-title: Another Sample Page
+title: Mi primer post
 published: true
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+hola este es mi primer post de mi blog personal, vamos a ver que sale 
 
 [Link to another page](another-page).
 
@@ -50,14 +51,6 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
 ### There's a horizontal rule below this.
 
@@ -93,32 +86,4 @@ end
   - level 2 item
 - level 1 item
 
-### Small image
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```

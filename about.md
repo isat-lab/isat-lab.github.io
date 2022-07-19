@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Sobre mi
 ---
 
-Something about me.
+Hola mi nombre es Cristian Graziutti y este es mi blog personal
