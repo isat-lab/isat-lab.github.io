@@ -3,10 +3,20 @@ title: Mi primer post
 published: true
 ---
 
+hola este es mi primer post de mi blog personal, vamos a ver que sale
+
+
+
+
+
+- Aca comienza el post del template enseñando a usar markdown 
+
+
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-hola este es mi primer post de mi blog personal, vamos a ver que sale 
+
 
 [Link to another page](another-page).
+
 
 There should be whitespace between paragraphs.
 
