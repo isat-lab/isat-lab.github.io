@@ -1,5 +1,5 @@
 ---
-title: Mi Maquina Virtual
+title: Que son las direcciones ip? 
 published: true
 ---
 
