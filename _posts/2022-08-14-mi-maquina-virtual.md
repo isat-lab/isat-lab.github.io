@@ -17,21 +17,20 @@ Vamos a entrar en la web oficial de Virtualbox y vamos a descargar el binario pa
 
 ## Vamos a crear la maquina
 
-**Nota: Para que la maquina virtual funcione tienen que tener activada la virtualizacion desde el bios de su maquina, como en todos los sistemas se hace de una forma distinta, no lo voy a poner y cada uno va a tener que hacerlo por su cuenta, es facil igual**
+**Nota: Para que la maquina virtual funcione tienen que tener activada la virtualizacion desde el bios en su maquina, como en todos los sistemas se hace de una forma distinta, no lo voy a poner y cada uno va a tener que hacerlo por su cuenta, es facil igual**
 
-Abrimos virtualbox y le damos al boton de nueva 
+* Abrimos virtualbox y le damos al boton de nueva 
 
 ![alt text](https://github.com/isat-lab/isat-lab.github.io/blob/f450652abf9e610b8c78440dc260ea70ceabd0de/_posts/imagenes%20apra%20el%20markdown%20de%20mi%20primera%20maquina%20virtual/maquina%20nueva,%20boton%20nueva.jpeg "boton maquina nueva")
 
-*Se abre una nueva ventana, vamos a completar con los siguientes datos: 
-    - Nombre: El que mas te guste
-    - Carpeta maquina: Lo que pone por defecto
-    - Tipo: linux
-    - Version: Debian de 64 bits
+* Se abre una nueva ventana, vamos a completar con los siguientes datos: 
+- Nombre: El que mas te guste
+- Carpeta maquina: Lo que pone por defecto
+- Tipo: linux
+- Version: Debian de 64 bits
+Y le damos a siguiente
 
-Ahora le damos a siguiente
-
- ![alt text](https://github.com/isat-lab/isat-lab.github.io/blob/f450652abf9e610b8c78440dc260ea70ceabd0de/_posts/imagenes%20apra%20el%20markdown%20de%20mi%20primera%20maquina%20virtual/interfaz%20de%20nueva%20maquina.jpeg "interfaz de maquina nueva")
+![alt text](https://github.com/isat-lab/isat-lab.github.io/blob/f450652abf9e610b8c78440dc260ea70ceabd0de/_posts/imagenes%20apra%20el%20markdown%20de%20mi%20primera%20maquina%20virtual/interfaz%20de%20nueva%20maquina.jpeg "interfaz de maquina nueva")
 
 * Asignamos 6 gb de ram y le damos a siguente
 
