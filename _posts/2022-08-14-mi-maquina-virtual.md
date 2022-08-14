@@ -16,4 +16,3 @@ Vamos a entrar en la web oficial de Virtualbox y vamos a descargar el binario pa
 
 ![alt text](https://github.com/isat-lab/isat-lab.github.io/blob/048b712daf1f89c36da4bb86a7272af3e99160a3/_posts/imagenes%20apra%20el%20markdown%20de%20mi%20primera%20maquina%20virtual/Virtualbox_download.jpeg "Virtualbox_download")
 
-https://github.com/isat-lab/isat-lab.github.io/blob/048b712daf1f89c36da4bb86a7272af3e99160a3/_posts/imagenes%20apra%20el%20markdown%20de%20mi%20primera%20maquina%20virtual/Virtualbox_download.jpeg
