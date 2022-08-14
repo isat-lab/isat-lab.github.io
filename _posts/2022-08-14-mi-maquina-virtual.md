@@ -2,8 +2,7 @@
 ### Aca les dejo la guia completa de como hice mi maquina virtual para hack the box y para practicar mis cursos de programacion y pentesting en general 
 
 
-**Nota:** *_
-Esta maquina la hice yo para mi es mi configuracion personal para utilizar en el dia a dia, puede que a algunos les guste y a otros no _*
+*Nota:* **Esta maquina la hice yo para mi es mi configuracion personal para utilizar en el dia a dia, puede que a algunos les guste y a otros no**
 
 # Primera parte
 
